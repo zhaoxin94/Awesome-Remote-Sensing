@@ -9,6 +9,10 @@
 * RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[NeurIPS2025]](https://arxiv.org/abs/2503.10392) [[code]](https://github.com/MiliLab/RoMA)
 
 
+## Foundation Model
+
+* HyperFree: A Channel-adaptive and Tuning-free Foundation Model for Hyperspectral Remote Sensing Imagery [[CVPR2025]](https://rsidea.whu.edu.cn/HyperFree.pdf) [[code]](https://github.com/Jingtao-Li-CVer/HyperFree)
+
 ## CLIP-Driven
 
 
