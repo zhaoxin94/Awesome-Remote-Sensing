@@ -2,11 +2,27 @@
 
 
 
-## Normal
+## Classification
 
 * Multiscale Segmentation-Guided Fusion Network for Hyperspectral Image Classification [[TIP2025]](https://ieeexplore.ieee.org/document/11176912) [[code]](https://github.com/shengrunhua/MS2FN)
 
 * RoMA: Scaling up Mamba-based Foundation Models for Remote Sensing [[NeurIPS2025]](https://arxiv.org/abs/2503.10392) [[code]](https://github.com/MiliLab/RoMA)
+
+* SWFormer: Stochastic Windows Convolutional Transformer for Hybrid Modality Hyperspectral Classification [[TIP2024]](https://ieeexplore.ieee.org/document/10696913)
+
+* Hi-RWKV: Hierarchical RWKV Modeling for Hyperspectral Image Classification [[TIP2026]](https://ieeexplore.ieee.org/document/11333959) [[code]](https://github.com/HSI-Lab/Hi-RWKV)
+
+* Multiscale Segmentation-Guided Fusion Network for Hyperspectral Image Classification [[TIP2025]](https://ieeexplore.ieee.org/document/11176912) [[code]](https://github.com/shengrunhua/MS2FN)
+
+
+## Semantic Segmentation
+
+* SegHSI: Semantic Segmentation of Hyperspectral Images With Limited Labeled Pixels [[TIP2024]](https://ieeexplore.ieee.org/document/10751785)
+
+
+## Change Detection
+
+* MambaFedCD: Spatial–Spectral–Temporal Collaborative Mamba-Based Active Federated Hyperspectral Change Detection [[TIP2026]](https://ieeexplore.ieee.org/document/11370463) [[code]](https://github.com/Jiahuiqu/MambaFedCD)
 
 
 ## Foundation Model
@@ -32,6 +48,8 @@
 
 ##  Domain Generalization
 
+* Single-Source Frequency Transform for Cross-Scene Classification of Hyperspectral Image [[TIP2025]](https://ieeexplore.ieee.org/document/11005695)
+
 * Single-Source Domain Expansion Network for Cross-Scene Hyperspectral Image Classification [[TIP]](https://ieeexplore.ieee.org/abstract/document/10050427) [[code]](https://github.com/YuxiangZhang-BIT/IEEE_TIP_SDEnet)
 
 * Adversarial decoupling domain generalization network for cross-scene hyperspectral image classification [[KBS]](https://www.sciencedirect.com/science/article/pii/S0950705125004794)
@@ -44,6 +62,10 @@
 
 
 ## Domain Adaptation
+
+* Domain-Adaptive Mamba for Cross-Scene Hyperspectral Image Classification [[TIP2026]](https://ieeexplore.ieee.org/abstract/document/11367376) [[code]](https://github.com/PuhongDuan/DAMamba)
+
+* Domain-Aware Adversarial Domain Augmentation Network for Hyperspectral Image Classification [[TIP2026]](https://ieeexplore.ieee.org/abstract/document/11367367) [[code]](https://github.com/PuhongDuan/DAMamba)
 
 * Bridging the Style Gap: Style-Guided Distillation Domain Adaptation for Hyperspectral Image Classification [[TGRS2025]](https://ieeexplore.ieee.org/abstract/document/11173668)
 
